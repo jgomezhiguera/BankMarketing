@@ -17,6 +17,7 @@ Universitat Oberta of Catalunya
 # Dataset
 
 Puede chequear el dataset en la siguiente dirección:
+https://raw.githubusercontent.com/jgomezhiguera/BankMarketing/master/data/bank-additional-full.csv
 
 
 # Licencia
